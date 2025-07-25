@@ -17,3 +17,13 @@ build/
 .vscode/
 .tox/
 docs/_build/
+
+.conda
+
+# DATA
+collab/external_data
+collab/internal_data
+collab/results
+data_ready.csv
+
+.DS_Store
