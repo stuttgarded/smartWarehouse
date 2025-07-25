@@ -2,3 +2,4 @@ flask
 pandas
 werkzeug
 openpyxl
+flask-cors

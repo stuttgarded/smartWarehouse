@@ -7,7 +7,6 @@ UPLOAD_FOLDER_SALES = 'uploads/sales'
 
 os.makedirs(UPLOAD_FOLDER_SALES, exist_ok=True)
 
-
 # Fungsi untuk menyimpan file ke folder
 def save_file(file, folder):
     filename = secure_filename(file.filename)
